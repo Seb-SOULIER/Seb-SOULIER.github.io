@@ -1,7 +1,7 @@
 .boxring {
   margin-left: 50px;
-  height: 80%;
-  width: 80%;
+  height: auto;
+  width: 600px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
